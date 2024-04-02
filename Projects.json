@@ -1,0 +1,106 @@
+{
+    "portfolio": [
+        {
+            "key": 1,
+            "project": "Silin project",
+            "language": [
+                "HTML/CSS",
+                "REACT",
+                "TYPESCRIPT",
+                "STYLED COMPONENTS",
+                "MATERIAL UI"
+            ],
+            "website": "https://jikkosoft.com/silin/",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/silin.webp",
+            "description": "In this project I worked for a company that seeks to create a web application that allows to centralize the collection of taxes from other companies and individuals, relating to municipalities and governors. In this project I worked with the SCRUM methodology, working hand in hand with other developers and areas such as design and QA. "
+        },
+        {
+            "key": 2,
+            "project": "Pokemon-api",
+            "language": [
+                "HTML/CSS",
+                "NEXTJS",
+                "TAILWIND",
+                "PRISMA",
+                "MONGODB"
+            ],
+            "website": "https://pokenext-three-rust.vercel.app/pokemons",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/pokeApi.webp",
+            "description": "Technical test done for a company, they asked to connect the pokemon api, they passed the design, it had to have login and other features."
+        },
+        {
+            "key": 3,
+            "project": "marvel",
+            "language": [
+                "HTML",
+                "NEXTJS",
+                "TYPESCRIPT",
+                "TAILWIND"
+            ],
+            "website": "https://dcnext-sgutierrezgf.vercel.app",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/marvel.webp",
+            "description": "Another technical test for the selection process of another company, they gave me the marvel api and I had to create an application that brought the information."
+        },
+        {
+            "key": 4,
+            "project": "Aranda-food",
+            "language": [
+                "HTML/CSS",
+                "REACT",
+                "TS"
+            ],
+            "website": "https://arandafood-32zr.vercel.app",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/food.webp",
+            "description": "Another technical test for the selection process of another company, they gave me the food api and I had to create an application that brought the information."
+        },
+        {
+            "key": 5,
+            "project": "SgutierrezgCV",
+            "language": [
+                "HTML",
+                "REACT",
+                "TAILWIND",
+                "TS"
+            ],
+            "website": "https://sgutierrezg-b9jki4p37-sgutierrezgf.vercel.app",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/v2-cv.webp",
+            "description": "a view into the past and my learning, an old version of my website."
+        },
+        {
+            "key": 6,
+            "project": "Phone-agenda",
+            "language": [
+                "HTML",
+                "TAILWIND",
+                "TS"
+            ],
+            "website": "https://agenda-virid.vercel.app",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/agenda.webp",
+            "description": "as a testimony of my continuous learning, creating a phone book."
+        },
+        {
+            "key": 7,
+            "project": "movie-Search",
+            "language": [
+                "HTML/CSS",
+                "JAVASCRIPT"
+            ],
+            "website": "https://movies-search-mocha.vercel.app",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/searchMovies.webp",
+            "description": "my beginnings learning the basics of web development and consuming apis."
+        },
+        {
+            "key": 8,
+            "project": "SgutierrezCV",
+            "language": [
+                "HTML",
+                "REACT",
+                "TAILWIND",
+                "TS"
+            ],
+            "website": "https://sgutierrezg-b9jki4p37-sgutierrezgf.vercel.app",
+            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/v2-cv.webp",
+            "description": "my first version of my website, learning from mistakes."
+        }
+    ]
+}
