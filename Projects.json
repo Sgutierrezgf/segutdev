@@ -30,7 +30,7 @@
         },
         {
             "key": 3,
-            "project": "marvel",
+            "project": "Marvel",
             "language": [
                 "HTML",
                 "NEXTJS",
@@ -64,7 +64,7 @@
             ],
             "website": "https://sgutierrezg-b9jki4p37-sgutierrezgf.vercel.app",
             "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/v2-cv.webp",
-            "description": "a view into the past and my learning, an old version of my website."
+            "description": "A view into the past and my learning, an old version of my website."
         },
         {
             "key": 6,
@@ -76,31 +76,18 @@
             ],
             "website": "https://agenda-virid.vercel.app",
             "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/agenda.webp",
-            "description": "as a testimony of my continuous learning, creating a phone book."
+            "description": "As a testimony of my continuous learning, creating a phone book."
         },
         {
             "key": 7,
-            "project": "movie-Search",
+            "project": "Movie-Search",
             "language": [
                 "HTML/CSS",
                 "JAVASCRIPT"
             ],
             "website": "https://movies-search-mocha.vercel.app",
             "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/searchMovies.webp",
-            "description": "my beginnings learning the basics of web development and consuming apis."
-        },
-        {
-            "key": 8,
-            "project": "SgutierrezCV",
-            "language": [
-                "HTML",
-                "REACT",
-                "TAILWIND",
-                "TS"
-            ],
-            "website": "https://sgutierrezg-b9jki4p37-sgutierrezgf.vercel.app",
-            "image": "https://raw.githubusercontent.com/Sgutierrezgf/imagenes/main/portfolio/v2-cv.webp",
-            "description": "my first version of my website, learning from mistakes."
+            "description": "My beginnings learning the basics of web development and consuming apis."
         }
     ]
 }
