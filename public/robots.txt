@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://segutdev.vercel.app/sitemap.xml

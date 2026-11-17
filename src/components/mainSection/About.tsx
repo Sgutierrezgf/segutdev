@@ -1,35 +1,45 @@
+import SectionHeading from "../ui/SectionHeading";
+
 function About() {
   return (
     <section
       id="about"
-      className="mb-14 scroll-mt-14 md:mb-14 lg:mb-14 lg:scroll-mt-14"
+      className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24"
       aria-label="About me"
     >
-      <div className="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
-        <h2 className="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">
-          About
-        </h2>
-      </div>
+      <SectionHeading title="About" />
       <div>
         <p className="mb-4">
-          I'm a software developer, my forte is frontend development, in the
-          last years I've been preparing myself and continue learning new skills
-          mostly with react and javascript. I try to keep a curious mentality of
-          wanting to learn more every day, my goal is to become a fullstack
-          developer.
+          I'm a full-stack developer and Systems Engineer with 6+ years of
+          experience building web and mobile products with{" "}
+          <span className="text-slate-200">React</span>,{" "}
+          <span className="text-slate-200">TypeScript</span>,{" "}
+          <span className="text-slate-200">Node.js</span> and{" "}
+          <span className="text-slate-200">Python (FastAPI)</span>.
         </p>
         <p className="mb-4">
-          I have had the opportunity to work in different companies all in the
-          field of technology and different fields such as health, financial,
-          banking among others, this has given me a broad business vision to
-          adapt to any eventuality.
+          Since 2023 I've been leading the end-to-end development of{" "}
+          <a
+            className="font-medium text-slate-200 hover:text-orange-600 focus-visible:text-orange-600"
+            href="https://hakme.ai"
+            target="_blank"
+            rel="noreferrer noopener"
+            aria-label="hakme.ai (opens in a new tab)"
+          >
+            hakme.ai
+          </a>
+          , a mental health platform: a shared backend, apps for patients and
+          therapists on web, iOS and Android, AI-generated messaging with the
+          OpenAI API, native push notifications and deployment on AWS.
         </p>
         <p className="mb-4">
-          In my free time, I like to expand my knowledge catalog, lately
-          learning other frameworks such as angular and nextjs, also learning
-          about video game development which I also like, and when I'm not at
-          the computer, I like to exercise, cook, read, walk my dog and hang out
-          with friends.
+          I've worked on products in health, fintech and government. I care
+          about owning features from the database schema to production, and
+          about shipping safely: automated tests as a release gate and
+          versioned migrations.
+        </p>
+        <p>
+          Outside the computer I like to exercise, cook, read and walk my dog.
         </p>
       </div>
     </section>
